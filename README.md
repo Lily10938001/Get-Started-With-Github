@@ -1,5 +1,4 @@
-# HELLO-WORLD
-just for practicing how to use GitHub
+# just for practicing how to use GitHub
 -
 now I know how to use these functions :
 1) Create an repository 
