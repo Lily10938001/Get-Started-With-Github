@@ -1,5 +1,5 @@
 # just for practicing how to use GitHub
-- now I know how to use these functions :
+now I know how to use these functions :
 1) Create an repository 
   - repository is usually used to organize a single project.
   - can contain folders and files, images, videos, spreadsheets, and data sets – anything my project needs. 
